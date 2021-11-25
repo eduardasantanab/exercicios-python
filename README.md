@@ -1,1 +1,1 @@
-# exercicios-phyton
+# exercicios-python
